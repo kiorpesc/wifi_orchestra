@@ -2,6 +2,7 @@ wifi_orchestra
 ==============
 
 A python script that generates music from characteristics of nearby wifi networks.
+ONLY WORKS ON LINUX -> this relies on console commands and parsing their outputs.
 
 This was intended to be used on a Raspberry Pi while wandering around, seeing how the music evolves as new networks are encountered and old ones lost.
 
